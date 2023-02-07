@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ade18fc7-57cf-44b0-88a4-cb266b1bc695" name="Changes" comment="finished week one assignments" />
+    <list default="true" id="ade18fc7-57cf-44b0-88a4-cb266b1bc695" name="Changes" comment="finished week one assignments">
+      <change beforePath="$PROJECT_DIR$/pyzero_weeks_001-005.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pyzero_weeks_001-005.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/user/Desktop/pyzero",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675801345333</updated>
       <workItem from="1675801349264" duration="3941000" />
+      <workItem from="1675805319394" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="finished week one assignments">
       <created>1675803556567</created>
