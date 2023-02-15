@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ade18fc7-57cf-44b0-88a4-cb266b1bc695" name="Changes" comment="finished week one assignments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyzero_notes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pyzero_notes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyzero_weeks_001-005.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pyzero_weeks_001-005.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
       <workItem from="1676372374906" duration="2580000" />
       <workItem from="1676392044866" duration="3719000" />
       <workItem from="1676462794697" duration="4778000" />
+      <workItem from="1676476061346" duration="3832000" />
     </task>
     <task id="LOCAL-00001" summary="finished week one assignments">
       <created>1675803556567</created>
